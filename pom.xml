@@ -5,13 +5,13 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<skipTests>true</skipTests>
 	</properties>
 	<groupId>Your_Group_Id</groupId>
 	<artifactId>Your_Artefact_Id</artifactId>
 	<version>Your_version</version>
 	<packaging>jar</packaging>
 	<name>Parser-Library</name>
-	<skipTests>true</skipTests>
 	<description>A library to give YACC like facility in Java</description>
 	<url>Put Project URL</url>
 	<licenses>
