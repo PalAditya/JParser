@@ -11,6 +11,7 @@
 	<version>Your_version</version>
 	<packaging>jar</packaging>
 	<name>Parser-Library</name>
+	<skipTests>true</skipTests>
 	<description>A library to give YACC like facility in Java</description>
 	<url>Put Project URL</url>
 	<licenses>
@@ -21,8 +22,8 @@
 	</licenses>
 	<developers>
 		<developer>
-			<name>Developer_name</name>
-			<email>Developer_email</email>
+			<name>Aditya Pal</name>
+			<email>adityapal.nghss@gmail.com</email>
 			<organization>Developer_Organization</organization>
 			<organizationUrl>Developer_URL</organizationUrl>
 		</developer>
